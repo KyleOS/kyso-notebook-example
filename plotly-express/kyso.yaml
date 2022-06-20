@@ -1,9 +1,0 @@
-type: jupyter
-organization: acme-r-and-d
-team: general
-title: "Plotly Express Gallery"
-description: "Tutorial on all the different kinds of plotly graphs."
-main: gallery.ipynb
-tags:
-  - apples
-  - organges

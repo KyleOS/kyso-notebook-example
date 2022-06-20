@@ -2,7 +2,7 @@
     "main": "notebook.ipynb",
     "title": "Visualising the increase in global temperatures over the past 200 years",
     "description": "A deep dive into how the earth has been warming at an accelerated rate for the past 200 years and, especially, since the 1970s.",
-    "organization": "acme-r-and-d",
+    "organization": "kyle-o-shea",
     "team": "general",
     "tags": ["plotly", "climate-change"],
     "type": "jupyter",

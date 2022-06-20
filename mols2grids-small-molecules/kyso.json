@@ -2,8 +2,8 @@
   "main": "main.ipynb",
   "title": "Visualizing Small Molecules Datasets with mols2grids",
   "description": "",
-  "organization": "acme-r-and-d",
-  "team": "genomics-pipelines",
+  "organization": "kyle-o-shea",
+  "team": "general",
   "tags": [
     "small-molecules",
     "targets"

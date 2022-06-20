@@ -1,5 +1,5 @@
-organization: "acme-r-and-d"
-team: product-analytics
+organization: "kyle-o-shea"
+team: general
 type: "jupyter"
 main: "main.ipynb"
 preview: "images/preview.png"
