@@ -1,0 +1,7 @@
+title: "My awesome chil"
+description: "This is a child post"
+branch: master
+main: _chart_types.py
+tags:
+  - eggs
+  - organges

@@ -1,0 +1,11 @@
+organization: "acme-r-and-d"
+team: product-analytics
+type: "jupyter"
+main: "main.ipynb"
+preview: "images/preview.png"
+email: "kyle@kyso.io"
+title: "Graphing Data From Airtable"
+description: "This guide will walk you through how to connect to an Airtable base from a Jupyter notebook, pull in your data and plot it, all with python."
+tags:
+  - airtable
+  - performance
