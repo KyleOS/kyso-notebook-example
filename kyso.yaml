@@ -1,6 +1,4 @@
 type: meta
 reports:
   - airtable-database
-  - global-warming
-  - mols2grids-small-molecules
-  - mutation-ratios
+  - inbound-campaigns

@@ -1,0 +1,9 @@
+type: jupyter
+organization: kyso
+team: sales
+main: "main.ipynb"
+email: "kyle@kyso.io"
+preview: "images/preview.png"
+title: "Graphing the results of our content marketing campaign since the new product launch"
+description: "Graphing some key SEO metrics to demonstrate the results of our new content marketing strategy. We also show that there are specific content categories that consistently have higher conversion rates than others."
+tags: ["google analytics", seo, marketing]
