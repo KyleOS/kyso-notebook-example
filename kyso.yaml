@@ -2,3 +2,4 @@ type: meta
 reports:
   - airtable-database
   - inbound-campaigns
+  - mermaid

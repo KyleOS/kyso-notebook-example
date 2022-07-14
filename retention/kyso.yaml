@@ -1,0 +1,7 @@
+type: other
+main: main.md
+organization: kyso
+team: sales
+title: "The state of B2C retention at Acme"
+description: "Quick dive into some retention metrics for the preceeding 18 months to determine the cause of the recent decline."
+tags: [b2c, churn, retention]
