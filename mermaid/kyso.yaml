@@ -1,7 +1,7 @@
 organization: kyso
 team: sales
 type: "jupyter"
-main: "main.ipynb"
+main: "main.md"
 email: "eoin@kyso.io"
 title: "Creating Mermaid diagrams in markdown"
 description: "Tutorial on the mermaid plugin syntax on how to create various flowcharts in markdown so our teams can document their models and processes."
