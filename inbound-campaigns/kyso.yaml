@@ -1,5 +1,5 @@
 type: jupyter
-organization: kyso
+organization: kyso-examples
 team: sales
 main: "main.ipynb"
 email: "kyle@kyso.io"
